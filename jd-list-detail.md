@@ -4,15 +4,15 @@
 <!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
 -->
 
-### PPM Java Engineer / Expert / 7023131
+### PPM / Java Engineer / Expert / 7023131
 
-Position Description
+**Position Description**
 
 The Sr. Software Engineer specifies, designs, implements and maintains software components. You should be familiar with a variety of software concepts, practices, and procedures, use broad knowledge of company's product and strong technical background to contribute to feature design processes for the product, bring strong expertise in J2EE.
 
 This position requires working in a global organization with counterparts currently in Israel and United States. As a senior position, you will mentor junior engineers.
 
-Key Requirements:
+**Key Requirements:**
 
 - BS/MS in Computer Science or related work experience  
 - 5+ years in software industry including participation in a few enterprise-class projects  
@@ -22,7 +22,7 @@ Key Requirements:
 - Experience in Java and Oracle SQL performance turning  
 - Good knowledge of algorithm and object oriented programming.
 
-Essential Attributes
+**Essential Attributes**
 
 - Extremely productive as an independent developer，leading experience is highly preferred
 - Background in most phases of development (i.e., analysis through deployment), rich experience developing complex software
@@ -32,7 +32,7 @@ Essential Attributes
 - Strong communication skills. Ability to communicate professionally with peers and customers.
 - Ability to work in a high-pressure environment.
 
-Required Skills:
+**Required Skills:**
 
 - Design and development of large scale distributed applications
 - Database technologies and Transaction processing
@@ -42,7 +42,7 @@ Required Skills:
 - Software methodologies and notations
 - knowledge on message-queuing middleware is required
 
-Deep Knowledge:
+**Deep Knowledge:**
 
 - Proficient in Java, e.g., Java threading model and JVM
 - Good knowledge in large-scale web application deployment (IIS, JBoss, Tomcat, cluster, load balance, proxy etc) , experience in JMX, JMS, etc.
@@ -50,20 +50,20 @@ Deep Knowledge:
 - Experience in Java and Oracle SQL performance turning
 - Good knowledge of algorithm and object oriented programming.
 
-Education and Work Experience:
+**Education and Work Experience:**
 
 - BS/MS in Computer Science or related work experience
 - 5+ years in software industry including participation in a few enterprise-class projects
 - Architected, designed, developed, deployed, and maintained multiple J2EE applications
 - Built and shipped multiple complex enterprise or shrink-wrapped products
 
-### UFTM Backend Engineer / Intermediate / 7023129
+### UFTM / Backend Engineer / Intermediate / 7023129
 
-Job Description:
+**Job Description:**
 
 As a member of the Backend/server team you will be working on core features of UFT Mobile, from the finalization of functional scope, detailed technical design & architecture, core features’ implementation, peer review, development testing etc…
 
-Key Requirements:
+**Key Requirements:**
 
 - Bachelor of Computer Science / Computer Engineering, or above.  
 - Strong English communication capabilities (verbal and written).  
@@ -74,7 +74,7 @@ Key Requirements:
 - Strong design skills.  
 - Experienced in software security.
 
-Responsibilities:
+**Responsibilities:**
 
 - Be responsible for the technical design of new solutions in the product.
 - Write high-quality technical design specification
@@ -84,7 +84,7 @@ Responsibilities:
 - Perform problem diagnosis, troubleshooting and resolution.
 - Cooperate with local and foreign colleagues. Communicate tightly with QA and other relat-ed teams
 
-Qualifications:
+**Qualifications:**
 
 - Bachelor of Computer Science / Computer Engineering, or above.
 - Strong English communication capabilities (verbal and written).
@@ -101,9 +101,9 @@ Qualifications:
 - Ability to work in a fast paced and agile development environment.
 - Highly motivated and autonomous.
 
-### UFTM Java & Android Engineer / Expert / 7024413
+### UFTM / Java & Android Engineer / Expert / 7024413
 
-Key Requirements:
+**Key Requirements:**
 
 - Bachelor or master’s degree in Computer Science, Information System, Software Engineering or equivalent  
 - At least 5 years working experience in Java  
@@ -112,14 +112,14 @@ Key Requirements:
 - Innovative/creative.  
 - Solid English communication capabilities (verbal and written).
 
-Responsibilities
+**Responsibilities**
 
 - Design, implement and maintains Android related modules in UFT Mobile product.
 - Writing high quality feature specifications and/or design documents
 - Working smoothly with local and remote multi-geo R&D and non-R&D teams
 - Working according to high execution standards, while adhering to project goals and ensuring high quality
 
-Qualifications
+**Qualifications**
 
 - Bachelor or master’s degree in Computer Science, Information System, Software Engineering or equivalent
 - At least 5 years working experience in Java
@@ -130,7 +130,7 @@ Qualifications
 - Experience in team leading and development methodology is an advantage.
 - Experience in Android App development and Android OS reverse engineering is an advantage.
 
-### UFT Python/C++ Engineer / Expert / 7024626
+### UFT / Python & C++ Engineer / Expert / 7024626
 
 **Key Requirements:**
 
@@ -203,7 +203,7 @@ Qualifications
 - Experience in Docker/Kubernetes is a plus.
 - Experiences in AWS, Azure GCP cloud platforms is a plus.
 
-### TBD / Specialist /UI Developer/TBD
+### CMS / Specialist / UI Developer / TBD
 
 **Education:**
 
@@ -233,7 +233,7 @@ Qualifications
   - Development experience in enterprise software R&D center is plus
   - Experienced with non-functional requirement like FIPS, Common Criteria, Accessibility etc.
 
-### CMS/Senior Developer with DevOps/Specialist/7025077
+### CMS / Senior Developer with DevOps / Specialist / 7025077
 
 **Essential Duties and Responsibilities**
 
