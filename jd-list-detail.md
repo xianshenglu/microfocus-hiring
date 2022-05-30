@@ -170,7 +170,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Customer orientation
 - Team player
 
-### TBD / Performance Test Engineer / Specialist / 7025462
+### SMA / Performance Test Engineer / Specialist / 7025462
 
 **Essential Attributes:**
 
