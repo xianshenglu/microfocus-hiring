@@ -4,59 +4,6 @@
 <!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
 -->
 
-### PPM / Java Engineer / Expert / 7023131
-
-**Position Description**
-
-The Sr. Software Engineer specifies, designs, implements and maintains software components. You should be familiar with a variety of software concepts, practices, and procedures, use broad knowledge of company's product and strong technical background to contribute to feature design processes for the product, bring strong expertise in J2EE.
-
-This position requires working in a global organization with counterparts currently in Israel and United States. As a senior position, you will mentor junior engineers.
-
-**Key Requirements:**
-
-- BS/MS in Computer Science or related work experience  
-- 5+ years in software industry including participation in a few enterprise-class projects  
-- Proficient in Java, e.g., Java threading model and JVM  
-- Good knowledge in large-scale web application deployment (IIS, JBoss, Tomcat, cluster, load balance, proxy etc) , experience in JMX, JMS, etc.  
-- Proficient in J2EE Servlets, JSP and most of the popular frameworks. e.g., Spring, Hibernate, Struts;  
-- Experience in Java and Oracle SQL performance turning  
-- Good knowledge of algorithm and object oriented programming.
-
-**Essential Attributes**
-
-- Extremely productive as an independent developer，leading experience is highly preferred
-- Background in most phases of development (i.e., analysis through deployment), rich experience developing complex software
-- Able to take components from inception through finished product with minimal external help
-- Enjoys difficult challenges, a problem solver
-- Discipline in good engineering practices (e.g. documentation, unit test generation)
-- Strong communication skills. Ability to communicate professionally with peers and customers.
-- Ability to work in a high-pressure environment.
-
-**Required Skills:**
-
-- Design and development of large scale distributed applications
-- Database technologies and Transaction processing
-- OO design techniques and heuristics
-- Application architectures and design patterns
-- Algorithms and data structures
-- Software methodologies and notations
-- knowledge on message-queuing middleware is required
-
-**Deep Knowledge:**
-
-- Proficient in Java, e.g., Java threading model and JVM
-- Good knowledge in large-scale web application deployment (IIS, JBoss, Tomcat, cluster, load balance, proxy etc) , experience in JMX, JMS, etc.
-- Proficient in J2EE Servlets, JSP and most of the popular frameworks. e.g., Spring, Hibernate, Struts;
-- Experience in Java and Oracle SQL performance turning
-- Good knowledge of algorithm and object oriented programming.
-
-**Education and Work Experience:**
-
-- BS/MS in Computer Science or related work experience
-- 5+ years in software industry including participation in a few enterprise-class projects
-- Architected, designed, developed, deployed, and maintained multiple J2EE applications
-- Built and shipped multiple complex enterprise or shrink-wrapped products
-
 ### UFTM / Backend Engineer / Intermediate / 7023129
 
 **Job Description:**
