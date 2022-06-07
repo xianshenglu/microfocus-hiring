@@ -43,7 +43,7 @@
 - Good knowledge of UNIX platform, shell scripts
 - Solid understanding with the DevOps methodology and agile practice.
 
-### CMS / Specialist / UI Developer / TBD
+### CMS / Specialist / UI Developer - Full stack, more on FrontEnd / TBD
 
 **Technical Skill**
 - Master of Java, Javascript
