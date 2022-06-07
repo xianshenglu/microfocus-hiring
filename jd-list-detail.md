@@ -150,7 +150,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Experience in Docker/Kubernetes is a plus.
 - Experiences in AWS, Azure GCP cloud platforms is a plus.
 
-### CMS / Specialist / UI Developer / TBD
+### CMS / Specialist / UI Developer - Full stack, more on FrontEnd  / TBD
 
 **Education:**
 
