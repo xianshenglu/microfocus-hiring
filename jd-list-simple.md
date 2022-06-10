@@ -4,6 +4,18 @@
 <!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
 -->
 
+### UFTM / Backend Engineer / Intermediate / 7023129
+
+**Key Requirements:**
+
+- Bachelor of Computer Science / Computer Engineering, or above.  
+- Strong English communication capabilities (verbal and written).  
+- Minimum 2 years of technical experience in enterprise software development.  
+- Professional experience in web application in Java using Spring/REST API.  
+- Strong background in JAVA backend and significant exposure to other technologies.  
+- Good database knowledge.  
+- Strong design skills.  
+- Experienced in software security.
 
 ### UFTM / Java & Android Engineer / Expert / 7024413
 
