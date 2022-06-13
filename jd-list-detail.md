@@ -172,20 +172,6 @@ As a member of the Backend/server team you will be working on core features of U
 - Lead other team members to accomplish software development goals under pressure.
 - Work well with local and overseas teams, and be able to support customer problems independently.
 
-**Job requirements:**
-
-- Bachelor degree or above, major in computer science is preferred.
-- More than 8 years’ experience in using Java for large-scale information system design and development.
-- With micro service architecture design and development experience preferred, at least one micro service development framework, such as spring boot.
-- Good English communication skills (oral and written).
-- Team work spirit, multinational team work experience is preferred.
-- Familiar with relational database and SQL development. PostgreSQL development experience is pre-ferred.
-- Familiar with popular CICD tools and practices.
-- Front-end design and development experience preferred, proficient in at least one front end development framework such as react or angular.
-- Proficiency in object oriented analysis and design methodology.
-- Linux, Docker and Kubernetes working experience is highly preferred.
-- Experience in large data processing and machine learning domain is a big plus.
-
 ### CMS / Senior Developer with DevOps / Specialist / 7025077
 
 **Essential Duties and Responsibilities**
