@@ -55,24 +55,21 @@
 - Good knowledge of UNIX platform, shell scripts
 - Solid understanding with the DevOps methodology and agile practice.
 
-### CMS / Specialist / UI Developer - Full stack, more on FrontEnd / TBD
+### CMS / Senior Java / Expert / 7026121
 
-**Technical Skill**
-- Master of Java, Javascript
-- Skilled with dominant design pattern/architecture: MVC, Micro Service etc.
-- Master of REST, SOAP, XML, JSON
-- Master of backend server design on high performance, scalability and concurrency requirement
-- Skilled with backend java framework: Spring/hibernate etc.
-- Master of common UI framework: ReactJs etc.
-- Plus:
-  - Familiar with kubernetes/docker is a plus
-  - Python
+**Key Requirements:**
 
-**Working experience**
-- 3 -6 years of working experience as software developer
-- Plus:
-  - Development experience in enterprise software R&D center is plus
-  - Experienced with non-functional requirement like FIPS, Common Criteria, Accessibility etc.
+- Bachelor degree or above, major in computer science is preferred.
+- More than 8 years’ experience in using Java for large-scale information system design and develop-ment.
+- With micro service architecture design and development experience preferred, at least one micro service development framework, such as spring boot.
+- Good English communication skills (oral and written).
+- Team work spirit, multinational team work experience is preferred.
+- Familiar with relational database and SQL development. PostgreSQL development experience is preferred.
+- Familiar with popular CICD tools and practices.
+- Front-end design and development experience preferred, proficient in at least one front end develop-ment framework such as react or angular.
+- Proficiency in object oriented analysis and design methodology.
+- Linux, Docker and Kubernetes working experience is highly preferred.
+- Experience in large data processing and machine learning domain is a big plus."
 
 ### CMS / Senior Developer with DevOps / Specialist / 7025077
 
