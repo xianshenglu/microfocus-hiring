@@ -150,7 +150,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Experience in Docker/Kubernetes is a plus.
 - Experiences in AWS, Azure GCP cloud platforms is a plus.
 
-### CMS / Senior Java / Expert / 7026121
+### SMAX / Senior Java / Expert / 7026121
 
 **Key Requirements:**
 
@@ -205,3 +205,51 @@ As a member of the Backend/server team you will be working on core features of U
 - Experience in programming language (Java/C/Javascript) is a plus
 - Experience on **AWS/Azure/GCP** is a plus
 - Good command of English
+
+### ITOM DCA / Premium Support Engineer / Specialist / 7025154
+
+**Job Description:**  
+
+Customer Solution Centers are made up of teams that provide remote (offsite) service; customer access, pre-sales, post-sales, and service delivery. Technical teams focus is to solve various business systems and applications problems for customers, onsite engineering personnel and Authorized Service Providers on standard, specialized or complex systems.
+
+**Responsibilities:**
+
+- Successfully resolve technical issues (hardware and software) from incoming internal or external businesses and end user's contacts and proactive notification systems.
+- Respond to service, product, technical, and customer- relations questions on subjects such as features, specifications, and repairs on current and discontinued products, parts, and options, based on customer entitlement (warranty through mission-critical). .
+- Proactively assist internal or external businesses and end users to avoid or reduce problem occurrence.
+- Ability to act as a team or project leader providing direction to team activities and facilitates information validation and team decision- making process.
+- Review and may resolve complex business issues.
+- Excellent communication skills. Add case resolution to KMS.
+- Understand and utilize Information Technology Information Libraries (ITIL).
+- Represent the company in a face to face customer location visit, industry conference/trade show, vendor meeting, etc.
+- Partners frequently with the Sales Pursuit team.
+
+**Education and Experience Required:**
+
+- Vocational: apprenticeship/certification completion. May be technical or non-technical. May include on- the-job training in addition to studies. In some locations, completion may be recognized by diploma. Advanced programs may be 2+ years. Associate degree: first attainable degree at the post-high school level. Typically 2 year completion beyond High School level (i.e., Associate of Arts, GCE 'A' level (Singapore), etc.) or equivalent experience. BA/BS or equivalent experience preferred.
+- 10+ years experience in relevant technologies and customer environments.
+- Relevant industry qualification where applicable.
+
+**Knowledge and Skills:**
+
+- Excellent verbal and written communication skills in language to be supported.
+- Experience in troubleshooting in a technical environment.
+- Excellent analytical and problem solving skills.
+- Software and hardware knowledge of computing, storage and peripheral devices.
+- Advanced proficiency with case management databases and tools.
+- Superior customer service skills.
+- Phone and remote support.
+- Partners frequently with the Sales Pursuit team.
+- Ability to solve and document solutions for usage of other technicians and customers.
+- Ability to mentor new agents.
+- Ability to lead resolution activities with escalated customers.
+- Ability to contribute to technical action plans.
+- Highly Developed knowledge of more complex solutions.
+- In-depth Knowledge on ITOM DCA product center products, mainly SA, CSA, OO. Knowledge /experience of other ITOM product center is preferable.
+- Implementation and Install assistance and support for DCA products, along with their integrations.
+- Experience in DCA/SA migration and product upgrade activities at the customer environment 
+- Handle critical escalations and fine tune product performance, customization,
+- Reviewing design / architecture of DCA products implementation and perform health check.
+- Coordinate with Product Manager, Sales, R&D and Professional Services to provide customer the best experience.
+- Capable of being crossed trained on other new products per future company needs.
+- Knowledge on DB, scripting, AWS, Docker Kubernetes, network.
