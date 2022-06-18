@@ -4,7 +4,7 @@
 <!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
 -->
 
-### UFTM / Backend Engineer / Intermediate / 7023129
+### UFTM / Backend Engineer / 月薪 10-16K / 7023129
 
 **Key Requirements:**
 
@@ -17,7 +17,7 @@
 - Strong design skills.  
 - Experienced in software security.
 
-### UFTM / Java & Android Engineer / Expert / 7024413
+### UFTM / Java & Android Engineer / 月薪 15-40K / 7024413
 
 **Key Requirements:**
 
@@ -28,7 +28,7 @@
 - Innovative/creative.  
 - Solid English communication capabilities (verbal and written).
 
-### UFT / Python & C++ Engineer / Expert / 7024626
+### UFT / Python & C++ Engineer / 月薪 25-40K / 7024626
 
 **Key Requirements:**
 
@@ -39,7 +39,7 @@
 - Ability and will to influence – setting an agenda and striving to reach it. Results orientation  
 - Solid English communication capabilities (verbal and written)
 
-### SMA / Performance Test Engineer / Specialist / 7025462
+### SMA / Performance Test Engineer / 月薪 15-25K / 7025462
 
 **Required Knowledge and Work Experience**
 
@@ -55,7 +55,7 @@
 - Good knowledge of UNIX platform, shell scripts
 - Solid understanding with the DevOps methodology and agile practice.
 
-### SMAX / Senior Java / Expert / 7026121
+### SMAX / Senior Java / 月薪 25-40K / 7026121
 
 **Key Requirements:**
 
@@ -71,7 +71,7 @@
 - Linux, Docker and Kubernetes working experience is highly preferred.
 - Experience in large data processing and machine learning domain is a big plus."
 
-### CMS / Senior Developer with DevOps / Specialist / 7025077
+### CMS / Senior Developer with DevOps / 月薪 15-25K / 7025077
 
 **Required Knowledge and Work Experience**
 
@@ -90,7 +90,7 @@
 - Experience on **AWS/Azure/GCP** is a plus
 - Good command of English
 
-### ITOM DCA / Premium Support Engineer / Specialist / 7025154
+### ITOM DCA / Premium Support Engineer / 月薪 15-25K / 7025154
 
 **Job Description:**  
 

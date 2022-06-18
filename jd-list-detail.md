@@ -4,7 +4,7 @@
 <!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
 -->
 
-### UFTM / Backend Engineer / Intermediate / 7023129
+### UFTM / Backend Engineer / 月薪 10-16K / 7023129
 
 **Job Description:**
 
@@ -48,7 +48,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Ability to work in a fast paced and agile development environment.
 - Highly motivated and autonomous.
 
-### UFTM / Java & Android Engineer / Expert / 7024413
+### UFTM / Java & Android Engineer / 月薪 15-40K / 7025879
 
 **Key Requirements:**
 
@@ -77,7 +77,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Experience in team leading and development methodology is an advantage.
 - Experience in Android App development and Android OS reverse engineering is an advantage.
 
-### UFT / Python & C++ Engineer / Expert / 7024626
+### UFT / Python & C++ Engineer / 月薪 25-40K / 7024626
 
 **Key Requirements:**
 
@@ -117,7 +117,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Customer orientation
 - Team player
 
-### SMA / Performance Test Engineer / Specialist / 7025462
+### SMA / Performance Test Engineer / 月薪 15-25K / 7025462
 
 **Essential Attributes:**
 
@@ -150,7 +150,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Experience in Docker/Kubernetes is a plus.
 - Experiences in AWS, Azure GCP cloud platforms is a plus.
 
-### SMAX / Senior Java / Expert / 7026121
+### SMAX / Senior Java / 月薪 25-40K / 7026121
 
 **Key Requirements:**
 
@@ -172,7 +172,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Lead other team members to accomplish software development goals under pressure.
 - Work well with local and overseas teams, and be able to support customer problems independently.
 
-### CMS / Senior Developer with DevOps / Specialist / 7025077
+### CMS / Senior Developer with DevOps / 月薪 15-25K / 7025077
 
 **Essential Duties and Responsibilities**
 
@@ -206,7 +206,7 @@ As a member of the Backend/server team you will be working on core features of U
 - Experience on **AWS/Azure/GCP** is a plus
 - Good command of English
 
-### ITOM DCA / Premium Support Engineer / Specialist / 7025154
+### ITOM DCA / Premium Support Engineer / 月薪 15-25K / 7025154
 
 **Job Description:**  
 
