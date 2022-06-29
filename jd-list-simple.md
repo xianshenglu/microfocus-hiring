@@ -1,8 +1,49 @@
 
-## 职位列表-简介（职位详细要求戳 [知乎](https://zhuanlan.zhihu.com/p/471764975)）
+## 职位列表-简介（职位详细要求[戳我跳转](https://zhuanlan.zhihu.com/p/471764975)）
 
-<!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
--->
+###  / Entry DevOps Engineer / 月薪 12-13K / 7023181
+
+**Responsibilities:**
+
+- Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
+- Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
+- Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
+- Participates as a member of project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
+
+**Education and Experience Required:**
+
+- Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Typically 0-2 years experience.
+
+**Knowledge and Skills:**
+
+- Experience or understanding of software applications design tools and languages.
+- Good analytical and problem solving skills.
+- Understanding of design for software applications running on multiple platform types.
+- Understanding of basic testing, coding, and debugging procedures.
+- Good written and verbal communication skills; mastery in English and local language.
+
+###  / QA Engineer / 月薪 15-25K / TBD
+
+**Keywords:** Java, Kubernetes, Docker, Selenium, Automation, Jenkins
+
+**Responsibilities**
+
+- Developing, applying and maintaining quality standards for company products. 
+- Developing and executing test plans at product specific feature levels. 
+- Reproducing issue and analyzing results to ensure existing functionality and recommending corrective action. 
+- Working as a team in problem resolution. 
+- Developing and maintaining automate test cases.
+
+**Qualifications**
+
+- 5 years or above software testing experience is required, both manual and automation. Java coding experience is strong plus.
+- Automation framework experience, and Selenium is a strong plus.
+- Performance & API testing experience, knowledge of JMeter or LoadRunner is a plus. 
+- Good knowledge of operation system, Linux and Windows. 
+- Good knowledge of containerization, K8S. 
+- Passion in software engineering, technology oriented. 
+- Independent, self-reliant, trustable, smart, quick learning, high responsible and with can do attitude • Experience with Agile.
 
 ### UFTM / Backend Engineer / 月薪 10-16K / 7023129
 
@@ -39,22 +80,6 @@
 - Ability and will to influence – setting an agenda and striving to reach it. Results orientation  
 - Solid English communication capabilities (verbal and written)
 
-### SMA / Performance Test Engineer / 月薪 15-25K / 7025462
-
-**Required Knowledge and Work Experience**
-
-- Bachelor's degree in software engineering, computer science, or a related field.
-- 5+ years’ experience in testing complex software.
-- 5+ years’ experience in E2E performance testing
-- Strong knowledge on the test approaches of integration testing and performance testing.
-- Strong Knowledge on scripts development and scenario design with LoadRunner
-- Strong Knowledge on the troubleshooting, analysis for application, OS, infra performance issues
-- Strong Knowledge on the tooling which can help on troubleshooting of networking, CPU/memory, file I/O.
-- Good knowledge of on the Java EE, RESTful, Java EE, RESTful, JAVA mid-ware of MQ, Redis and etc.
-- Good knowledge of on the DB like PostgreSQL
-- Good knowledge of UNIX platform, shell scripts
-- Solid understanding with the DevOps methodology and agile practice.
-
 ### SMAX / Senior Java / 月薪 25-40K / 7026121
 
 **Key Requirements:**
@@ -69,7 +94,7 @@
 - Front-end design and development experience preferred, proficient in at least one front end develop-ment framework such as react or angular.
 - Proficiency in object oriented analysis and design methodology.
 - Linux, Docker and Kubernetes working experience is highly preferred.
-- Experience in large data processing and machine learning domain is a big plus."
+- Experience in large data processing and machine learning domain is a big plus.
 
 ### CMS / Senior Developer with DevOps / 月薪 15-25K / 7025077
 
@@ -91,10 +116,6 @@
 - Good command of English
 
 ### ITOM DCA / Premium Support Engineer / 月薪 15-25K / 7025154
-
-**Job Description:**  
-
-Customer Solution Centers are made up of teams that provide remote (offsite) service; customer access, pre-sales, post-sales, and service delivery. Technical teams focus is to solve various business systems and applications problems for customers, onsite engineering personnel and Authorized Service Providers on standard, specialized or complex systems.
 
 **Responsibilities:**
 
