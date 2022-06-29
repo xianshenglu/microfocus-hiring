@@ -363,4 +363,4 @@ Customer Solution Centers are made up of teams that provide remote (offsite) ser
 **Plus**
 
 - Experience in Docker/Kubernetes is a plus.
-- Experiences in AWS or Azure cloud is a plu
+- Experiences in AWS or Azure cloud is a plus
