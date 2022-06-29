@@ -4,6 +4,53 @@
 <!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
 -->
 
+###  / Entry DevOps Engineer / 月薪 12-13K / 7023181
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, or Internet- related computer programs, primarily for end users. Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications. Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications.
+
+**Responsibilities:**
+
+- Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
+- Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
+- Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
+- Participates as a member of project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
+
+**Education and Experience Required:**
+
+- Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Typically 0-2 years experience.
+
+**Knowledge and Skills:**
+
+- Experience or understanding of software applications design tools and languages.
+- Good analytical and problem solving skills.
+- Understanding of design for software applications running on multiple platform types.
+- Understanding of basic testing, coding, and debugging procedures.
+- Good written and verbal communication skills; mastery in English and local language.
+
+###  / QA Engineer / 月薪 15-25K / TBD
+
+**Keywords:** Java, Kubernetes, Docker, Selenium, Automation, Jenkins
+
+**Responsibilities**
+
+- Developing, applying and maintaining quality standards for company products. 
+- Developing and executing test plans at product specific feature levels. 
+- Reproducing issue and analyzing results to ensure existing functionality and recommending corrective action. 
+- Working as a team in problem resolution. 
+- Developing and maintaining automate test cases.
+
+**Qualifications**
+
+- 5 years or above software testing experience is required, both manual and automation. Java coding experience is strong plus.
+- Automation framework experience, and Selenium is a strong plus.
+- Performance & API testing experience, knowledge of JMeter or LoadRunner is a plus. 
+- Good knowledge of operation system, Linux and Windows. 
+- Good knowledge of containerization, K8S. 
+- Passion in software engineering, technology oriented. 
+- Independent, self-reliant, trustable, smart, quick learning, high responsible and with can do attitude • Experience with Agile.
+
+
 ### UFT / C++ Engineer / 月薪 25-40K / 7024626
 
 **Key Requirements:**
@@ -219,52 +266,6 @@ At Micro Focus, everything we do is based on a simple idea: The fastest way to g
 - Experience in programming language (Java/C/Javascript) is a plus
 - Experience on **AWS/Azure/GCP** is a plus
 - Good command of English
-
-###  / QA Engineer / 月薪 15-25K / TBD
-
-**Keywords:** Java, Kubernetes, Docker, Selenium, Automation, Jenkins
-
-**Responsibilities**
-
-- Developing, applying and maintaining quality standards for company products. 
-- Developing and executing test plans at product specific feature levels. 
-- Reproducing issue and analyzing results to ensure existing functionality and recommending corrective action. 
-- Working as a team in problem resolution. 
-- Developing and maintaining automate test cases.
-
-**Qualifications**
-
-- 5 years or above software testing experience is required, both manual and automation. Java coding experience is strong plus.
-- Automation framework experience, and Selenium is a strong plus.
-- Performance & API testing experience, knowledge of JMeter or LoadRunner is a plus. 
-- Good knowledge of operation system, Linux and Windows. 
-- Good knowledge of containerization, K8S. 
-- Passion in software engineering, technology oriented. 
-- Independent, self-reliant, trustable, smart, quick learning, high responsible and with can do attitude • Experience with Agile.
-
-###  / Entry DevOps Engineer / 月薪 12-13K / 7023181
-
-Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, or Internet- related computer programs, primarily for end users. Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications. Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications.
-
-**Responsibilities:**
-
-- Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
-- Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
-- Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
-- Participates as a member of project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
-
-**Education and Experience Required:**
-
-- Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
-Typically 0-2 years experience.
-
-**Knowledge and Skills:**
-
-- Experience or understanding of software applications design tools and languages.
-- Good analytical and problem solving skills.
-- Understanding of design for software applications running on multiple platform types.
-- Understanding of basic testing, coding, and debugging procedures.
-- Good written and verbal communication skills; mastery in English and local language.
 
 ### ITOM DCA / Premium Support Engineer / 月薪 15-25K / 7025154
 

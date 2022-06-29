@@ -96,6 +96,34 @@ Typically 0-2 years experience.
 - Linux, Docker and Kubernetes working experience is highly preferred.
 - Experience in large data processing and machine learning domain is a big plus.
 
+###  / Senior Java Developer / 月薪 15-25K / TBD
+
+**Job requirements:**
+
+- Bachelor’s degree or above, major in computer science is preferred.
+- More than 3 years’ experience in using Java for large-scale information system design and development.
+- With micro service design and development experience preferred, at least one micro service develop-ment framework, such as spring boot.
+- Good English communication skills (oral and written).
+- Teamwork spirit, multinational teamwork experience is preferred.
+- Familiar with relational database and SQL development. PostgreSQL development experience is pre-ferred.
+- Front-end design and development experience preferred.
+- Proficiency in object-oriented analysis and design methodology.
+- Linux, Docker and Kubernetes working experience is preferred.
+- Experience in large data processing and machine learning domain is preferred.
+
+###  / Java Developer / 月薪 15-25K / TBD
+
+**Keywords:** Java, Spring, Kubernetes, Docker
+
+**Required**
+
+- Bachelor or Master Degree in Computer Science, Information System, Software Engineering or equivalent
+- Solid understanding of fundamental design and architecture patterns such as: n-tier, Publish/Subscribe, REST, MVC, Data Access (OR/M, DAO’s…etc.)
+- Hands-on programming and debugging skills on Java, JS, HTML5. Experience with Spring framework, Message Queue, Angular JS, React JS.
+- Ability to adopt and learn new process/business/technical knowledge. Team work is the key to success.
+- Familiar with Kubernetes, Docker, Cloud is a good plus.
+- Fluent written and oral English is a good plus.
+
 ### CMS / Senior Developer with DevOps / 月薪 15-25K / 7025077
 
 **Required Knowledge and Work Experience**
