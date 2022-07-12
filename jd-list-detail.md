@@ -4,30 +4,6 @@
 <!--其他职位戳 **[BOSS 链接](https://www.zhipin.com/gongsir/626d5f8079a0f7be1nJ40ti4GFc~.html?ka=company-jobs)**，**[拉钩链接](https://m.lagou.com/wn/gongsi/316515.html)**
 -->
 
-###  / Entry DevOps Engineer / 月薪 12-13K / 7023181
-
-Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, or Internet- related computer programs, primarily for end users. Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications. Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications.
-
-**Responsibilities:**
-
-- Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
-- Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
-- Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
-- Participates as a member of project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
-
-**Education and Experience Required:**
-
-- Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
-Typically 0-2 years experience.
-
-**Knowledge and Skills:**
-
-- Experience or understanding of software applications design tools and languages.
-- Good analytical and problem solving skills.
-- Understanding of design for software applications running on multiple platform types.
-- Understanding of basic testing, coding, and debugging procedures.
-- Good written and verbal communication skills; mastery in English and local language.
-
 ###  / QA Engineer / 月薪 15-25K / TBD
 
 **Keywords:** Java, Kubernetes, Docker, Selenium, Automation, Jenkins
@@ -91,7 +67,7 @@ Typically 0-2 years experience.
 - Customer orientation
 - Team player
 
-### UFTM / Java & Android Engineer / 月薪 15-40K / 7025879
+### UFTM-Android Team / Java & Android Engineer / 月薪 15-40K / 7025879
 
 **Key Requirements:**
 
@@ -119,6 +95,37 @@ Typically 0-2 years experience.
 - Solid English communication capabilities (verbal and written).
 - Experience in team leading and development methodology is an advantage.
 - Experience in Android App development and Android OS reverse engineering is an advantage.
+
+### PPM / Senior Java Software Engineer / 月薪 20-40K / 7026439
+
+**Job Description:**
+
+We are seeking a senior Java engineer who will be working on a global J2EE enterprise application. You will be part of agile team to specify, design, implement and maintain a global application, use analytical skills to troubleshoot issues and work with different stakeholders to deliver best solutions. You will have opportunities to talk to global customers, meet with difficult and interesting technical challenges, and design/implement a global J2EE enterprise application. 
+
+**Essential Attributes:**
+
+- Smart, quick learner
+- Self-Starter, able to work with minimum supervision
+- Analytical mindset and good problem-solving skills
+- Excellent written and verbal communication
+- Ability to work as part of a team
+
+**Required Skills:**
+
+- Working experience as a Java Software Engineer
+- **Proficient in PL/SQL coding and optimizing**
+- **Good command of Oracle performance reports and diagnosis tools**
+- **Good knowledge of popular Java frameworks like Spring, Hibernate, MQ etc**
+- Good knowledge of PostgreSQL is a plus
+- Good knowledge of React/Angular is a plus 
+- Good knowledge of AWS, K8S, shell is a plus
+- Experience in data warehouse and ETL is a plus 
+- Good Written English skills
+
+**Education And Work Experiences:**
+
+- BS/MS in Computer Science or related work experience 
+- 5+ years in software industry 
 
 ### UFTM / Backend Engineer / 月薪 10-16K / 7023129
 
@@ -266,6 +273,30 @@ At Micro Focus, everything we do is based on a simple idea: The fastest way to g
 - Experience in programming language (Java/C/Javascript) is a plus
 - Experience on **AWS/Azure/GCP** is a plus
 - Good command of English
+
+###  / Entry DevOps Engineer / 月薪 12-13K / 7023181
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, or Internet- related computer programs, primarily for end users. Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications. Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications.
+
+**Responsibilities:**
+
+- Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
+- Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
+- Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
+- Participates as a member of project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
+
+**Education and Experience Required:**
+
+- Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Typically 0-2 years experience.
+
+**Knowledge and Skills:**
+
+- Experience or understanding of software applications design tools and languages.
+- Good analytical and problem solving skills.
+- Understanding of design for software applications running on multiple platform types.
+- Understanding of basic testing, coding, and debugging procedures.
+- Good written and verbal communication skills; mastery in English and local language.
 
 ### ITOM DCA / Premium Support Engineer / 月薪 15-25K / 7025154
 

@@ -1,28 +1,6 @@
 
 ## 职位列表-简介（职位详细要求[戳我跳转](https://zhuanlan.zhihu.com/p/471764975)）
 
-###  / Entry DevOps Engineer / 月薪 12-13K / 7023181
-
-**Responsibilities:**
-
-- Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
-- Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
-- Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
-- Participates as a member of project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
-
-**Education and Experience Required:**
-
-- Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
-Typically 0-2 years experience.
-
-**Knowledge and Skills:**
-
-- Experience or understanding of software applications design tools and languages.
-- Good analytical and problem solving skills.
-- Understanding of design for software applications running on multiple platform types.
-- Understanding of basic testing, coding, and debugging procedures.
-- Good written and verbal communication skills; mastery in English and local language.
-
 ###  / QA Engineer / 月薪 15-25K / TBD
 
 **Keywords:** Java, Kubernetes, Docker, Selenium, Automation, Jenkins
@@ -58,7 +36,7 @@ Typically 0-2 years experience.
 - Strong design skills.  
 - Experienced in software security.
 
-### UFTM / Java & Android Engineer / 月薪 15-40K / 7024413
+### UFTM-Android Team / Java & Android Engineer / 月薪 15-40K / 7024413
 
 **Key Requirements:**
 
@@ -79,6 +57,25 @@ Typically 0-2 years experience.
 - Strong application architecture understanding  
 - Ability and will to influence – setting an agenda and striving to reach it. Results orientation  
 - Solid English communication capabilities (verbal and written)
+
+### PPM / Senior Java Software Engineer / 月薪 20-40K / TBD
+
+**Required Skills:**
+
+- Working experience as a Java Software Engineer
+- **Proficient in PL/SQL coding and optimizing**
+- **Good command of Oracle performance reports and diagnosis tools**
+- **Good knowledge of popular Java frameworks like Spring, Hibernate, MQ etc**
+- Good knowledge of PostgreSQL is a plus
+- Good knowledge of React/Angular is a plus 
+- Good knowledge of AWS, K8S, shell is a plus
+- Experience in data warehouse and ETL is a plus 
+- Good Written English skills
+
+**Education And Work Experiences:**
+
+- BS/MS in Computer Science or related work experience 
+- 5+ years in software industry 
 
 ### SMAX / Senior Java / 月薪 25-40K / 7026121
 
@@ -142,6 +139,28 @@ Typically 0-2 years experience.
 - Experience in programming language (Java/C/Javascript) is a plus
 - Experience on **AWS/Azure/GCP** is a plus
 - Good command of English
+
+###  / Entry DevOps Engineer / 月薪 12-13K / 7023181
+
+**Responsibilities:**
+
+- Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
+- Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.
+- Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
+- Participates as a member of project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
+
+**Education and Experience Required:**
+
+- Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Typically 0-2 years experience.
+
+**Knowledge and Skills:**
+
+- Experience or understanding of software applications design tools and languages.
+- Good analytical and problem solving skills.
+- Understanding of design for software applications running on multiple platform types.
+- Understanding of basic testing, coding, and debugging procedures.
+- Good written and verbal communication skills; mastery in English and local language.
 
 ### ITOM DCA / Premium Support Engineer / 月薪 15-25K / 7025154
 
