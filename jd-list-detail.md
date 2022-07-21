@@ -171,28 +171,6 @@ As a member of the Backend/server team you will be working on core features of U
 - Ability to work in a fast paced and agile development environment.
 - Highly motivated and autonomous.
 
-### SMAX / Senior Java / 月薪 25-40K / 7026121
-
-**Job Description:**
-
-- Independently complete the software functional module requirement analysis, architecture design, use Java and related technology to develop and test the core code of the product.
-- Lead other team members to accomplish software development goals under pressure.
-- Work well with local and overseas teams, and be able to support customer problems independently.
-
-**Key Requirements:**
-
-- Bachelor degree or above, major in computer science is preferred.
-- More than 8 years’ experience in using Java for large-scale information system design and develop-ment.
-- With micro service architecture design and development experience preferred, at least one micro service development framework, such as spring boot.
-- Good English communication skills (oral and written).
-- Team work spirit, multinational team work experience is preferred.
-- Familiar with relational database and SQL development. PostgreSQL development experience is preferred.
-- Familiar with popular CICD tools and practices.
-- Front-end design and development experience preferred, proficient in at least one front end develop-ment framework such as react or angular.
-- Proficiency in object oriented analysis and design methodology.
-- Linux, Docker and Kubernetes working experience is highly preferred.
-- Experience in large data processing and machine learning domain is a big plus."
-
 ###  / Senior Java Developer / 月薪 15-25K / TBD
 
 **Job Description:**
@@ -212,33 +190,6 @@ As a member of the Backend/server team you will be working on core features of U
 - Proficiency in object-oriented analysis and design methodology.
 - Linux, Docker and Kubernetes working experience is preferred.
 - Experience in large data processing and machine learning domain is preferred.
-
-###  / Java Developer / 月薪 15-25K / TBD
-
-**Keywords:** Java, Spring, Kubernetes, Docker
-
-**Job Description:**
-
-At Micro Focus, everything we do is based on a simple idea: The fastest way to get results is to build on what you have. Our software solutions enable organizations to do just that. Secure and scalable, with analytics built in, they bridge the gap between existing and emerging IT—fast-tracking digital transformations across DevOps, Hybrid IT, Security, and Predictive Analytics. In the race to innovate, Micro Focus customers have the clear advantage.
-
-**Responsibilities**
-
-- Assumes overall accountability for a successful implementation, ensures solutions are properly delivered on time with quality.
-- Develop & Design new features, design, build, and maintain efficient, reusable, and reliable code
-- Handles customer escalation or ticket, supports professional support and technical service teams.
-- Defines and disseminates technology best practices, ensures we are proactive in our pursuit of new solutions and innovation within our technology practice
-- Ensure the best possible performance, quality, and responsiveness of the applications
-- Identify bottlenecks and bugs, and devise solutions to these problems
-- Collaborate with other team members and stakeholders
-
-**Required**
-
-- Bachelor or Master Degree in Computer Science, Information System, Software Engineering or equivalent
-- Solid understanding of fundamental design and architecture patterns such as: n-tier, Publish/Subscribe, REST, MVC, Data Access (OR/M, DAO’s…etc.)
-- Hands-on programming and debugging skills on Java, JS, HTML5. Experience with Spring framework, Message Queue, Angular JS, React JS.
-- Ability to adopt and learn new process/business/technical knowledge. Team work is the key to success.
-- Familiar with Kubernetes, Docker, Cloud is a good plus.
-- Fluent written and oral English is a good plus.
 
 ### CMS / Senior Developer with DevOps / 月薪 15-25K / 7025077
 
