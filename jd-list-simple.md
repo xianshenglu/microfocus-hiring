@@ -58,7 +58,7 @@
 - Ability and will to influence – setting an agenda and striving to reach it. Results orientation  
 - Solid English communication capabilities (verbal and written)
 
-### PPM / Senior Java Software Engineer / 月薪 20-40K / TBD
+### PPM / Senior Java Software Engineer / 月薪 20-40K / 7026439
 
 **Required Skills:**
 
